@@ -1,0 +1,470 @@
+obj/local/armeabi/objs-debug/cocos2dx_static/base/CCConsole.o: \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCConsole.cpp \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCConsole.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/time.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/stdint.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/time.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/signal.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/limits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/string.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/malloc.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/signal.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccMacros.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCStdC.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCPlatformConfig.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCPlatformMacros.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccConfig.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCPlatformDefine.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/android/log.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/math.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/alloca.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/strings.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/memory.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/locale \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/fcntl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/fcntl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/fcntl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/unistd.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/sysconf.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/capability.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/pathconf.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netdb.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/socket.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/socket.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/socket.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/sockios.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/sockios.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/uio.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/arpa/inet.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netinet/in.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/endian.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/endian.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/endian.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/in.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/byteorder.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/swab.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/generic.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/in6.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/ipv6.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netinet/in6.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/un.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/un.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/ioctl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/ioctl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/ioctl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/ioctl.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/ioctls.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/termbits.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/ioctl_compat.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCDirector.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCRef.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccTypes.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCGeometry.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCMath.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCMathBase.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.inl \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.inl \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.inl \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.inl \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Quaternion.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Quaternion.inl \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCGL.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCVector.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCLabelAtlas.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCAtlasNode.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCNode.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventDispatcher.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventListener.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEvent.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCScriptSupport.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCCommon.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCTouch.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventTouch.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventKeyboard.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCProtocols.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCTexture2D.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCAffineTransform.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/ccGLStateCache.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCQuadCommand.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCRenderCommand.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCGLProgramState.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCRenderCommandPool.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCScheduler.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/uthash.h \
+ E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCConfiguration.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCValue.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCScene.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./physics/CCPhysicsWorld.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCFileUtils.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCData.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCTextureCache.h \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
+ E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCImage.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCGLView.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCGLViewProtocol.h \
+ E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/base64.h
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCConsole.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/select.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/time.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/time.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/signal.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/limits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/page.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/string.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/signal.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccMacros.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCStdC.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCPlatformConfig.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCPlatformMacros.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccConfig.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCPlatformDefine.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/math.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/strings.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/memory.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/locale:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/fcntl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/fcntl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/fcntl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/unistd.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/sysconf.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/capability.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/pathconf.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netdb.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/socket.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/socket.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/socket.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/sockios.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/sockios.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/uio.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/arpa/inet.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netinet/in.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/endian.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/endian.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/machine/endian.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/in.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/byteorder.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/little_endian.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/swab.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/byteorder/generic.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/in6.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/ipv6.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/netinet/in6.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/un.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/un.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/ioctl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/linux/ioctl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/ioctl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm-generic/ioctl.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/ioctls.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/asm/termbits.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/sys/ioctl_compat.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCDirector.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCRef.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/ccTypes.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCGeometry.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCMath.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCMathBase.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.inl:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec2.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.inl:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec3.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.inl:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.inl:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Vec4.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Mat4.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Quaternion.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/Quaternion.inl:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCGL.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCVector.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCLabelAtlas.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCAtlasNode.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCNode.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventDispatcher.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventListener.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEvent.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCScriptSupport.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCCommon.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCTouch.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventTouch.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCEventKeyboard.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCProtocols.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCTexture2D.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./math/CCAffineTransform.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/ccGLStateCache.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCQuadCommand.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCRenderCommand.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCGLProgramState.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCRenderCommandPool.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCScheduler.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/uthash.h:
+
+E:/Andriod/android-ndk-r9/platforms/android-9/arch-arm/usr/include/inttypes.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCConfiguration.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCValue.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./2d/CCScene.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./physics/CCPhysicsWorld.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCFileUtils.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/CCData.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./renderer/CCTextureCache.h:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+
+E:/Andriod/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCImage.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/android/CCGLView.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./platform/CCGLViewProtocol.h:
+
+E:\FEEL_project\FEEL\proj.android\../cocos2d/cocos/./base/base64.h:
